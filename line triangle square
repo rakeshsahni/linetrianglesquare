@@ -1,0 +1,65 @@
+# for 1st drawing
+import turtle as t
+t.speed(0)
+sc = t.Screen()
+sc.bgcolor("black")
+t.color("blue")
+
+for i in range (60) :
+    t.circle(100,360,2)
+    t.right(6)
+
+# for 2nd drawing
+import turtle as t
+t.speed(0)
+sc = t.Screen()
+sc.bgcolor("black")
+t.color("blue")
+
+for i in range (60) :
+    t.circle(100,360,3)
+    t.right(6)
+
+# for 3rd drawing
+import turtle as t
+t.speed(0)
+sc = t.Screen()
+sc.bgcolor("black")
+t.color("blue")
+
+for i in range (60) :
+    t.circle(100,360,4)
+    t.right(6)
+
+# for 4th drawing
+import turtle as t
+t.speed(0)
+sc = t.Screen()
+sc.bgcolor("black")
+t.color("blue")
+
+for i in range (60) :
+    t.circle(100,360,5)
+    t.right(6)
+
+# for 5th drawing
+import turtle as t
+t.speed(0)
+sc = t.Screen()
+sc.bgcolor("black")
+t.color("blue")
+
+for i in range (60) :
+    t.circle(100,360,6)
+    t.right(6)
+
+# for 6th drawing
+import turtle as t
+t.speed(0)
+sc = t.Screen()
+sc.bgcolor("black")
+t.color("blue")
+
+for i in range (60) :
+    t.circle(100,360,10)
+    t.right(6)
